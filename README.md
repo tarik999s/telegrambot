@@ -1,2 +1,1 @@
-# telegrambot
-Open AI telegram-bot
+Код телеграм-бот ChatGPT
